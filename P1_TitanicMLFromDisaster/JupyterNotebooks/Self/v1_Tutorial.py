@@ -41,7 +41,6 @@ y_train = train_data["Survived"]
 
 
 # # Applying model directly
-# 
 
 # In[51]:
 
